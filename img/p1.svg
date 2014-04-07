@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<rect x="32.586" y="21" fill="#DCDDDD" width="180" height="248.5"/>
+	<rect x="36.586" y="30.5" fill="#EFEFEF" width="180" height="248.5"/>
+	<rect x="43.586" y="24" fill="#F7F8F8" width="180" height="248.5"/>
+	<rect x="96.336" y="35" opacity="0.54" fill="#C9CACA" width="74.5" height="18.5"/>
+	<g opacity="0.54">
+		<rect x="85.836" y="73" fill="#9FA0A0" width="111" height="4"/>
+		<rect x="70.336" y="83.5" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="94" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="104.5" fill="#9FA0A0" width="126.5" height="4"/>
+	</g>
+	<g opacity="0.54">
+		<rect x="85.836" y="134.5" fill="#9FA0A0" width="111" height="4"/>
+		<rect x="70.336" y="145" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="155.5" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="166" fill="#9FA0A0" width="126.5" height="4"/>
+	</g>
+	<g opacity="0.54">
+		<rect x="85.836" y="198.5" fill="#9FA0A0" width="111" height="4"/>
+		<rect x="70.336" y="209" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="219.5" fill="#9FA0A0" width="126.5" height="4"/>
+		<rect x="70.336" y="230" fill="#9FA0A0" width="126.5" height="4"/>
+	</g>
+	<g>
+		<g>
+			<polygon fill="#FCE3CD" points="221.596,214.818 193.678,206.156 187.75,167.119 222.64,185.605 			"/>
+			<polygon fill="#595757" points="197.164,180.386 190.544,185.084 187.834,167.236 203.785,175.688 			"/>
+		</g>
+		<g>
+			<polygon fill="#C8656A" points="265.146,245.57 235.957,266.281 193.422,206.337 204.376,208.198 208.373,195.729 
+				221.035,196.377 222.611,185.626 			"/>
+			<g>
+				<defs>
+					<polygon id="SVGID_1_" points="265.146,245.57 235.957,266.281 193.422,206.337 204.376,208.198 208.373,195.729 
+						221.035,196.377 222.611,185.626 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  overflow="visible"/>
+				</clipPath>
+				
+					<line clip-path="url(#SVGID_2_)" fill="none" stroke="#9A4B51" stroke-width="2.1778" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="201.282" y1="204.14" x2="242.222" y2="261.836"/>
+				
+					<line clip-path="url(#SVGID_2_)" fill="none" stroke="#9A4B51" stroke-width="2.1778" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="218.226" y1="192.117" x2="259.165" y2="249.813"/>
+				
+					<line clip-path="url(#SVGID_2_)" fill="none" stroke="#9A4B51" stroke-width="2.1778" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="204.694" y1="190.847" x2="250.765" y2="255.774"/>
+			</g>
+		</g>
+		<polygon opacity="0.48" fill="#B5B5B6" points="187.834,167.236 204.376,208.198 239.333,257.463 232.926,262.01 193.422,206.337 
+					"/>
+		<polygon opacity="0.48" fill="#B5B5B6" points="188.226,167.638 208.373,195.729 247.573,250.974 232.623,261.583 
+			193.422,206.337 		"/>
+		<g>
+			<path fill="#FCE3CD" d="M265.967,248.84c1.674,2.359,1.119,5.629-1.241,7.303l-18.368,13.033
+				c-2.359,1.674-5.629,1.119-7.303-1.241l0,0c-1.674-2.359-1.119-5.629,1.241-7.303l18.368-13.033
+				C261.024,245.925,264.294,246.481,265.967,248.84L265.967,248.84z"/>
+			
+				<rect x="230.49" y="250.52" transform="matrix(0.8155 -0.5787 0.5787 0.8155 -101.3235 191.3614)" fill="#B5B5B6" width="38.06" height="8.206"/>
+			<polyline fill="#9FA0A0" points="267.414,246.957 236.375,268.982 231.626,262.29 			"/>
+			<path opacity="0.4" fill="#FCE3CD" d="M245.837,269.546c0,0-3.904,2.342-7.171-2.262l26.816-19.028
+				C265.482,248.256,242.537,264.895,245.837,269.546z"/>
+		</g>
+	</g>
+	<g>
+		
+			<text transform="matrix(0.9335 -0.3585 0.3585 0.9335 78.0674 114.5384)" fill="#B75551" font-family="'Impact'" font-size="35.9012">pass</text>
+		
+			<rect x="56.199" y="69.29" transform="matrix(0.9335 -0.3585 0.3585 0.9335 -26.0002 44.6283)" fill="none" stroke="#B75551" stroke-width="4.8716" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="9.7433" width="102.304" height="46.28"/>
+	</g>
+</g>
+</svg>
