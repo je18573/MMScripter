@@ -1,5 +1,5 @@
 body{
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: "微軟正黑體", "Microsoft JhengHei", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	color: #333333;
 	text-align: center;
 	margin: 0; 
@@ -28,13 +28,14 @@ body{
 	letter-spacing: 1.5em;
 }
 nav{
+	position: absolute;
 	height: 80px;
 	background-color: #00afad;
 	width: 100%;
 }
 nav ul{
 	margin:  auto;
-	max-width: 1200px;
+	width: 1200px;
 }
 nav li{
 	display: inline-block;
@@ -60,7 +61,7 @@ nav li:hover{
 }
 #introduction{
 	margin: auto;
-	max-width: 1000px;
+	width: 1000px;
 	height: 400px;
 }
 #introduction h2{
@@ -70,8 +71,6 @@ nav li:hover{
 }
 #introduction h2:after{
 	content: url('../img/line.svg');
-	padding-top: 20px;
-	padding-bottom: 50px;
 }
 #introduction p{
 	font-size: 1em;
@@ -85,11 +84,12 @@ nav li:hover{
 }
 .caption_box{
 	margin: auto;
-	max-width: 1200px;
+	width: 1200px;
+	white-space: nowrap;
 }
 .caption_box .box{
 	position: relative;
-	float: left;
+	display: inline-block;
 	margin-top: 100px;
 	margin-right: 40px;
 	width: 300px;
@@ -154,6 +154,7 @@ nav li:hover{
 	background: #00afad;
 	width: 1000px;
 	height: 232px;
+	transition: all .5s ease-in-out;
 }
 .money_box p{
 	position: absolute;
@@ -162,6 +163,7 @@ nav li:hover{
 	left: 450px;
 	font-size: 3em;
 	color: #fff;
+	transition: all .5s ease-in-out;
 }
 .money_box:nth-child(2) p{
 	left: 400px;
@@ -177,6 +179,7 @@ nav li:hover{
 	border-width: 0 0 100px 90px;
 	border-style: solid;
 	border-color: transparent #1a7149 #eee;
+
 }
 .money_box .info{
 	position: absolute;
@@ -185,6 +188,7 @@ nav li:hover{
 	font-size: 2em;
 	color: #00afad;
 	top: 50px;	
+	transition: all .5s ease-in-out;
 }
 .money_box .info ul{
 	width: 1000%;

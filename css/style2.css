@@ -1,5 +1,5 @@
 body{
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: "微軟正黑體", "Microsoft JhengHei", Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	color: #333333;
 	text-align: center;
 	margin: 0; 
@@ -28,13 +28,14 @@ body{
 	letter-spacing: 1.5em;
 }
 nav{
+	position: absolute;
 	height: 80px;
 	background-color: #EB6460;
 	width: 100%;
 }
 nav ul{
 	margin:  auto;
-	max-width: 1200px;
+	width: 1200px;
 }
 nav li{
 	display: inline-block;
@@ -58,9 +59,10 @@ nav li:hover{
 	height: 80px; 
 	z-index: 99;
 }
+
 #introduction{
 	margin: auto;
-	max-width: 1200px;
+	width: 1200px;
 	height: 400px;
 }
 #introduction h2{
@@ -83,7 +85,7 @@ nav li:hover{
 }
 .caption_box{
 	margin: auto;
-	max-width: 1200px;
+	width: 1200px;
 }
 .caption_box .box{
 	position: relative;
@@ -94,7 +96,7 @@ nav li:hover{
 	background-color: #eee;
 	padding: 35px;
 }
-.caption_box .box:nth-child(3n+3){
+.caption_box .box:nth-child(3){
 	margin-right: 0;
 }
 .caption_box .box .hover{
