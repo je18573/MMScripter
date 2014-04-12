@@ -16,19 +16,42 @@ body{
 	height: 400px;
 	position: absolute;
 	top: 50%;
-	left: 50%;
+	left: 20%;
 	margin-top: -200px;
 	margin-left: -200px;
 }
 .heaber .logo p{
 	position: absolute;
-	left: 20%;
+	left: 23%;
 	top: 60%;
 	color: #EB6460;
-	letter-spacing: 1.5em;
+	font-size: 18px;
+	letter-spacing: 0.5em;
+}
+.heaber #introduction{
+	background: white;
+	position: absolute;
+	left: 45%;
+	top: 30%;	
+	width: 600px;
+	height: 200px;
+}
+.heaber #introduction h2{
+	padding-top: 40px;
+	line-height: 2em;
+	font-size: 2em;
+	color: #EB6460;
+}
+
+.heaber #introduction p{
+	padding-top: 30px;
+	font-size: 1em;
+	color: #444;
+	line-height: 2em;
+	font-size: 1.2em;
 }
 nav{
-	position: absolute;
+	position: relative;
 	height: 80px;
 	background-color: #EB6460;
 	width: 100%;
@@ -60,27 +83,8 @@ nav li:hover{
 	z-index: 99;
 }
 
-#introduction{
-	margin: auto;
-	width: 1200px;
-	height: 400px;
-}
-#introduction h2{
-	padding-top: 140px;
-	line-height: 2em;
-	font-size: 3em;
-	color: #EB6460;
-}
-
-#introduction p{
-	padding-top: 30px;
-	font-size: 1em;
-	color: #444;
-	line-height: 2em;
-	font-size: 1.2em;
-}
 #caption{
-	height: 1200px;
+	height: 600px;
 	background-color: #EB6460;
 }
 .caption_box{
@@ -155,7 +159,7 @@ nav li:hover{
 #emil .text h2{
 	margin: 0 auto;
 	width: 800px;
-	padding-top: 130px;
+	padding-top: 100px;
 	font-size:2.6em;
 	color: #EB6460;
 	border-bottom: 2px solid #EB6460;
