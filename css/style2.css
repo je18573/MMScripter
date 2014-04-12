@@ -22,11 +22,11 @@ body{
 }
 .heaber .logo p{
 	position: absolute;
-	left: 23%;
+	left: 20%;
 	top: 60%;
 	color: #EB6460;
 	font-size: 18px;
-	letter-spacing: 0.5em;
+	letter-spacing: 1.2em;
 }
 .heaber #introduction{
 	background: white;
