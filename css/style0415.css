@@ -6,10 +6,13 @@ body{
 	padding: 0;
 }
 .nema{
+	z-index: 99;
+	position:fixed;
 	height: 60px;
 	width: 100%;
 	background-color: #EB6460;
 }
+
 ul{
 	margin: 0 auto;
 	padding-top: 10px;
@@ -23,9 +26,10 @@ ul li{
 	position: relative;
 	background:url(../img/header_bg2.png) no-repeat ;
 	background-size:cover;
-	height: 500px;
+	height: 550px;
 }
 .heaber .box{
+	padding-top: 50px;
 	margin:0 auto;
 	width: 1200px;
 }
@@ -110,10 +114,10 @@ ul li{
 }
 #emil .text{
 	width: 1000px;
-	height: 500px;
+	height: 620px;
 	background-color: rgba(255,255,255,.8);
 	position: absolute;
-	top: 50%;
+	top: 45%;
 	left: 50%;
 	margin-left: -500px;
 	margin-top: -250px;
@@ -134,9 +138,7 @@ ul li{
 	line-height: 1.8em;
 	padding-top: 20px;
 }
-#emil .emil_text{
-	padding-top: 30px;
-}
+
 input.box_text{
 	width: 300px;
 	height: 30px;
