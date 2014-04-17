@@ -4,4 +4,5 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-49147289-2', 'twbbs.org');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
